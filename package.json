@@ -1,12 +1,26 @@
 {
   "name": "hamza-portfolio",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Expert web development services: custom websites, e-commerce, WordPress, React. Responsive, fast, and modern solutions from Pakistan.",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "web",
+    "development",
+    "services",
+    "custom",
+    "websites",
+    "e-commerce",
+    "WordPress",
+    "React",
+    "responsive",
+    "fast",
+    "modern",
+    "solutions",
+    "Pakistan"
+  ],
+  "author": "Hamza Minhaj",
   "license": "ISC"
 }
